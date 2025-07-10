@@ -1,0 +1,65 @@
+# === Node / JS / TS Projects ===
+node_modules/
+dist/
+build/
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# === C / C++ ===
+*.out
+*.exe
+*.o
+*.obj
+
+# === Text Editor / IDE Settings ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Backup / Temp Files ===
+*.log
+*.bak
+*.tmp
+*.save
+*.~*
+*.orig
+
+# === Git Keeps for Empty Folders ===
+!.gitkeep
+
+# === Environment Files ===
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# === Others (Customize as needed) ===
+*.zip
+*.7z
+*.tar.gz
+*.rar
+*.gz
+
+# === Ignore compiled patterns/images if any ===
+*.png
+*.jpeg
+*.jpg
+*.pdf
